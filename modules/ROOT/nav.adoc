@@ -1,9 +1,7 @@
-.Unformatted Trace & Data Encapsulation
-* xref:index.adoc[Title Page]
-* xref:changelog.adoc[Change Log]
-* xref:copyright.adoc[Copyright]
-* xref:contributors.adoc[Contributors]
-* xref:intro.adoc[Introduction]
-* xref:encapsulation.adoc[Encapsulation Format]
-* xref:e-trace-specifics.adoc[E-Trace Specifics]
-
+* xref:index.adoc[Unformatted Trace & Data Encapsulation]
+** xref:changelog.adoc[Change Log]
+** xref:copyright.adoc[Copyright]
+** xref:contributors.adoc[Contributors]
+** xref:intro.adoc[Introduction]
+** xref:encapsulation.adoc[Encapsulation Format]
+** xref:e-trace-specifics.adoc[E-Trace Specifics]
